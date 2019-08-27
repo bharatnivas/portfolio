@@ -97,3 +97,18 @@ p.one {
 	background-color:#295CE5;
 	padding: 100px;
 }
+.social-icons img{
+  width:50px;
+  float: right;
+  padding:0 10px 0 0;
+}
+.socialprofile {
+    margin: 25% 50px 0 53px;
+}
+.socialprofile > h4 {
+    font-size: 21px;
+    padding: 0 0 24px 0;
+}
+.footer-text p{
+	color:#fff;
+}
